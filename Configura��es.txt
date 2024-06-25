@@ -1,0 +1,5 @@
+board: esp32 wrover module
+espressif version: 1.0.4
+flash frequency: 80MHZ
+flash mode: QIO
+Partition Scheme: Huge APP
